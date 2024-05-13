@@ -1,0 +1,12 @@
+{
+  "name": "zad1",
+  "version": "1.0.0",
+  "description": "zad1",
+  "main": "app.js",
+  "author": "Artem Smolii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment-timezone": "^0.5.45"
+  }
+}
